@@ -1,6 +1,9 @@
 # EduHub
 EduHub is an e-learning platform designed to provide users with a seamless online education experience. It is built using Angular for the front end and Spring Boot for the back end.
 
+## For Video Demo Click the Link Below -----
+https://e365ultra-my.sharepoint.com/:v:/g/personal/g7_e365ultra_onmicrosoft_com/EXKaE1KQM-hDkiHDTprHB-cBBeV3NBtWr6MEf7brhzmsVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uwLnB2
+
 ![EduHub Website Preview](https://github.com/vaibhavpandey-hash/EduHub/blob/525bf3eec9620e8cd4dc829ea6ef80b3e3e17552/wedsitePreview.jpg)
 
 ## Features
