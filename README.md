@@ -80,5 +80,8 @@ https://e365ultra-my.sharepoint.com/:v:/g/personal/g7_e365ultra_onmicrosoft_com/
 1. Open your browser and navigate to `http://localhost:4200` for the front end.
 2. Access the backend API at `http://localhost:8080`.
 
+## PPT 
+[EDUHUB - UPDATED.pptx](https://github.com/user-attachments/files/17193543/EDUHUB.-.UPDATED.pptx)
+
 
 
